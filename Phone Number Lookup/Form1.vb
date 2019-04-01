@@ -15,6 +15,7 @@
             End If
         Next
 
+
         lblName.Text = "No Names Match This Search"
     End Sub
 End Class
